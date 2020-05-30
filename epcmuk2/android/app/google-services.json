@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "344961363441",
+    "firebase_url": "https://e-pcmuk.firebaseio.com",
+    "project_id": "e-pcmuk",
+    "storage_bucket": "e-pcmuk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344961363441:android:ca7e211eb967cbcfcde850",
+        "android_client_info": {
+          "package_name": "com.bookpc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344961363441-788jqe9vb1dop3f3n7gp2l44hmsrlnaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTj3Y4Qw1xUhwkH561k576GVtd32_of0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344961363441-788jqe9vb1dop3f3n7gp2l44hmsrlnaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344961363441:android:d4fc7f2a4b74470fcde850",
+        "android_client_info": {
+          "package_name": "com.example.epcmuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344961363441-788jqe9vb1dop3f3n7gp2l44hmsrlnaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTj3Y4Qw1xUhwkH561k576GVtd32_of0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344961363441-788jqe9vb1dop3f3n7gp2l44hmsrlnaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
